@@ -1,0 +1,9 @@
+com\mscomm\userservice\UserServiceApplication.class
+com\mscomm\userservice\service\impl\UserServiceImpl.class
+com\mscomm\userservice\dto\UserDto.class
+com\mscomm\userservice\dto\ResponseDto.class
+com\mscomm\userservice\controller\UserController.class
+com\mscomm\userservice\entity\Patient.class
+com\mscomm\userservice\dto\DepartmentDto.class
+com\mscomm\userservice\service\PatientService.class
+com\mscomm\userservice\repository\PatientRepository.class
